@@ -1,0 +1,151 @@
+: ASC-D *
+Left_Margin_Offset 10
+Right_Margin_Offset 10
+
+: LM* *
+Font TimesRoman
+
+: NB* *
+System_Tabs_Rept 4
+
+: PCW *
+Transfer_Soft_Line_Break 1
+
+: SIGN *
+System_Tabs_Rept 5
+
+: XY* *
+System_Tabs_Rept 8
+
+: * AMI*
+Transfer_All_Tabs N
+
+: * ASC-*
+Keep_Footnote_Format_in_Text N
+Keep_Footnote_Format_in_Note N
+Keep_Endnote_Format_in_Text N
+Keep_Endnote_Format_in_Note N
+: * ASC-D
+ASCII_Line_Ending 3
+ASCII_Output_New_Page N
+Extended_Chars_Mode 254
+Boldface_by_backspacing N
+Strikeout_by_backspacing N
+Underline_by_backspacing N
+Superimpose_by_backspacing N
+: * ASC-L
+ASCII_Line_Ending 1
+ASCII_Output_New_Page N
+Extended_Chars_Mode 62
+Columns_Conversion_Mode 0
+Boldface_by_backspacing N
+Strikeout_by_backspacing N
+Underline_by_backspacing N
+Superimpose_by_backspacing N
+Control_Z N
+: * ASC-P
+ASCII_Line_Ending 3
+
+: * BROT*
+Header_Top 6
+Header_Bottom 7
+Body_Text_Top 8
+Body_Text_Bottom 58
+Footer_Top 59
+Footer_Bottom 60
+Footnote_Location 3
+Endnote_Location 3
+Extended_Chars_Mode 63
+
+: * BROTG
+Extended_Chars_Mode 62
+
+: * DW*
+Use_Aligned_Fields 2
+Transfer_all_Tabs N
+: * DW2
+Use_Columns_Feature 0
+: * DW3
+Use_Columns_Feature 0
+: * DW4
+Use_Columns_Feature 0
+: * DW42
+Use_Columns_Feature 1
+: * DW5
+Use_Columns_Feature 1
+
+: * EDG
+ASCII_Line_Ending 3
+Extended_Chars_Mode 14
+Keep_Left_Margin N
+Left_Margin 0
+Keep_Table_Position N
+Table_Position 0
+Transfer_Table_Hor_Lines N
+Transfer_Table_Vert_Lines N
+Keep_Table_Left_Gutters N
+Keep_Table_Right_Gutters N
+Table_Left_Gutters 0
+Table_Right_Gutters 1
+bold>upcase
+unln>upcase
+dblu>upcase
+dbstrk>upcase
+shad>upcase
+ital>upcase
+altclr>upcase
+smlcap>upcase
+outln>upcase
+
+: * ENAB*
+Use_Columns_Feature 1
+
+: * INSCR
+ASCII_Line_Ending 3
+
+: * MSW*
+Transfer_All_Tabs N
+Keep_Footnote_Format_in_Text N
+Keep_Footnote_Format_in_Note N
+Keep_Endnote_Format_in_Text N
+Keep_Endnote_Format_in_Note N
+Footnote_Format_in_Text {+sup}{ftnt#}{-sup}
+Footnote_Format_in_Note {+sup}{ftnt#}{-sup}
+Endnote_Format_in_Text {+sup}{ftnt#}{-sup}
+Endnote_Format_in_Note {+sup}{ftnt#}{-sup}
+True_Outline_Codes N
+
+: * MSWW*
+True_Outline_Codes Y
+
+: * RFT
+Use_Columns_Feature 0
+Use_Aligned_Fields 2
+Transfer_all_Tabs N
+
+: * WPF*
+Import_TOC_Codes N
+Import_TOL_Codes N
+Transfer_All_Tabs N
+
+: * WS*
+Boldface_by_Backspacing N
+Strikeout_by_Backspacing N
+Underline_by_Backspacing N
+: * WS2*
+Use_Columns_Feature 1
+: * WS3
+Header_Location 1
+Footer_Location 1
+: * WS4
+Header_Location 1
+Footer_Location 1
+: * WS5*
+Use_Columns_Feature 1
+: * WS6
+Use_Columns_Feature 1
+: * WS7
+Use_Columns_Feature 1
+
+: * *
+

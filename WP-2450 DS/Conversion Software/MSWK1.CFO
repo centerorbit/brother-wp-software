@@ -1,0 +1,10 @@
+Transfer_All_Tabs N
+Keep_Footnote_Format_in_Text N
+Keep_Footnote_Format_in_Note N
+Keep_Endnote_Format_in_Text N
+Keep_Endnote_Format_in_Note N
+Footnote_Format_in_Text {+sup}{ftnt#}{-sup}
+Footnote_Format_in_Note {+sup}{ftnt#}{-sup}
+Endnote_Format_in_Text {+sup}{ftnt#}{-sup}
+Endnote_Format_in_Note {+sup}{ftnt#}{-sup}
+
